@@ -17,4 +17,4 @@ To use the application, simply start it from your Java environment, load an imag
 
 ## License
 
-This project is open-source and available under the MIT License. For more details, see the LICENSE file.
+This project is open-source and available under The Unlicense License. For more details, see the LICENSE file.
