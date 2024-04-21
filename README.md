@@ -2,12 +2,12 @@
 
 ## Overview
 
-**Image Pixel Sorter** is a Java application developed using JavaFX that provides a graphical interface for loading, sorting, and saving images based on pixel color characteristics. It utilizes advanced color sorting algorithms to rearrange the pixels in an image by their hue, saturation, and brightness (HSV) values, creating visually striking effects that enhance the aesthetic appeal of the images.
+**Image Pixel Sorter** is a Java application developed using JavaFX that provides a graphical interface for loading, sorting, and saving images based on pixel color characteristics. It utilizes advanced color sorting algorithms to rearrange the pixels in an image by their hue, saturation, and brightness (HSV) values.
 
 ## Features
 
 - **Load Images**: Users can load images directly through a user-friendly interface.
-- **Pixel Sorting**: Sort pixels in the images based on a sophisticated algorithm that considers both RGB and HSV values, allowing for the creation of unique, eye-catching effects.
+- **Pixel Sorting**: Sort pixels in the images based on a sophisticated algorithm that considers both RGB and HSV values.
 - **Save Functionality**: After sorting, users have the option to save the resulting image to their device.
 - **Interactive UI**: A simple and interactive user interface that allows users to easily operate the application without prior experience.
 
